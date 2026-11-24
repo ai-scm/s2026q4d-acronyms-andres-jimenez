@@ -1,4 +1,4 @@
-# s2026q2a-acronyms-andres-jimenez
+# s2026q4a-acronyms-andres-jimenez
 This repo contains the information fro the different acronyms assigned.
 
 ## Concepts:
